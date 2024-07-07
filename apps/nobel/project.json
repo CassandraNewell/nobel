@@ -1,0 +1,9 @@
+{
+  "name": "nobel",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/nobel/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project nobel --web",
+  "targets": {}
+}
