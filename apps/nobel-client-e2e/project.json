@@ -1,10 +1,10 @@
 {
-  "name": "nobel-e2e",
+  "name": "nobel-client-e2e",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
   "projectType": "application",
-  "sourceRoot": "apps/nobel-e2e/src",
+  "sourceRoot": "apps/nobel-client-e2e/src",
   "tags": [],
   "implicitDependencies": ["nobel-client"],
-  "// targets": "to see all targets run: nx show project nobel-e2e --web",
+  "// targets": "to see all targets run: nx show project nobel-client-e2e --web",
   "targets": {}
 }
