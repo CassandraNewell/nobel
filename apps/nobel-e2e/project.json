@@ -4,7 +4,7 @@
   "projectType": "application",
   "sourceRoot": "apps/nobel-e2e/src",
   "tags": [],
-  "implicitDependencies": ["nobel"],
+  "implicitDependencies": ["nobel-client"],
   "// targets": "to see all targets run: nx show project nobel-e2e --web",
   "targets": {}
 }

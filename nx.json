@@ -48,6 +48,9 @@
       "options": {
         "targetName": "test"
       }
+    },
+    {
+      "plugin": "@nxlv/python"
     }
   ],
   "generators": {
@@ -67,5 +70,5 @@
       }
     }
   },
-  "nxCloudAccessToken": "YWE3MWY1MWItZDk1Mi00ZWI1LWE5NjItOTZhMjNkZjE3MDYxfHJlYWQtd3JpdGU="
+  "nxCloudAccessToken": "MDkyNGFhZWMtZjNjYy00MDc5LWE2YzYtYmY5NzU1ODZlZjVmfHJlYWQ="
 }
